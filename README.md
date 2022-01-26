@@ -4,3 +4,5 @@ Bunch of Computer Vision Projects
 2. Car Pedestrian Detection
 3. Digit Recognition
 4. Face Eye detection
+5. Face Recognition
+6. Face Swapper
