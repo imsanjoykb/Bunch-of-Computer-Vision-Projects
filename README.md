@@ -6,3 +6,5 @@ Bunch of Computer Vision Projects
 4. Face Eye detection
 5. Face Recognition
 6. Face Swapper
+7. Facial Expression Detection
+8. Find Shape
