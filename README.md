@@ -8,3 +8,5 @@ Bunch of Computer Vision Projects
 6. Face Swapper
 7. Facial Expression Detection
 8. Find Shape
+9. Live Sketch
+10. Object Tracking
