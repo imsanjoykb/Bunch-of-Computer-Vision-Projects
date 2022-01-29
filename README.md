@@ -10,3 +10,4 @@ Bunch of Computer Vision Projects
 8. Find Shape
 9. Live Sketch
 10. Object Tracking
+11. Template Matchning
